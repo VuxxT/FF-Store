@@ -1,0 +1,1 @@
+<a class="btn btn-primary" href="qluserthem.php" role="button">Đăng Ký</a>

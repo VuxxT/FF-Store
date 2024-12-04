@@ -1,0 +1,167 @@
+/* Header */
+
+.jumbotron
+{
+    background-image: linear-gradient(0,#e8d5e7,#e1b2a3);
+    margin-top: -35px;
+}
+/* .header
+{
+    background-color: #fceded;
+} */
+.facebook
+{
+    color: #0d86ea;
+}
+.twitter
+{
+    color: #1da1f2;
+}
+.instagram
+{
+    color: #f63454;
+}
+.acc-cart
+{
+    display: flex;
+}
+.account
+{
+    font-size: 15px;
+    padding-right: 20px;
+    list-style: none;
+    /* position: absolute; */
+}
+.account:hover .account-login
+{
+    display: block;
+    text-decoration: none;
+}
+
+.account-login
+{ 
+    position: absolute;
+    display: none;
+    background-color: #F0F0F0 ;
+}
+.dangnhap
+{
+    padding-top: 10px;
+    position: relative;
+    color: black;
+}
+.dangky
+{
+    padding-top: 15px;
+    position: relative;
+    color: black;
+}
+.acc-thoat
+{
+    position: relative;
+    list-style: none;
+}
+.acc-thoat:hover .thoat
+{
+    display: block;
+}
+.thoat
+{
+    position: relative;
+    display: none;
+}
+
+.cart
+{
+    font-size: 15px;
+}
+.header a i
+{
+    font-size: 35px;
+    padding-left: 5px;
+}
+.seach
+{
+    text-align: right;
+    padding-right: 20rem;
+    padding-top: 15px;
+}
+.row-seach
+{
+    border-radius: 10px;
+    border: 0 solid;
+    width: 75%;
+    height: 32px;
+}
+.danhmuc
+{
+    margin-top: -20px;
+    margin-bottom: 10px;
+    display: flex;
+    justify-content: space-evenly;
+}
+.container .row .chitietspleft
+{
+    float: left;
+}
+.container .row .chitietspright
+{
+    width: 50%;
+    float: right;
+}
+
+.ctsp-img
+{
+    display: flex;
+
+}
+
+
+
+/* Footer */
+footer
+{
+    background-image: linear-gradient(0,#e6b6a6,#e8d5e7);
+}
+.row-footer
+{
+    display: flex;
+    justify-content: space-between;
+    /* text-decoration: none;
+    list-style: none;
+    color: black; */
+}
+.footer-left
+{
+    float: left;
+    font-size: 1.6rem;
+    
+
+}
+.footer-center
+{
+    float:none;
+    font-size: 1.6rem;
+    
+}
+.footer-right
+{
+    float: right;
+    font-size: 1.6rem;
+}
+ul li
+{
+    list-style: none;
+    /* padding: 0px; */
+    /* text-decoration-style: none; */
+}
+.muangay
+{
+    display: flex;
+    justify-content: flex-end;
+}
+
+.btn-info:hover
+{
+    background-color: #e6b6a6;
+}
